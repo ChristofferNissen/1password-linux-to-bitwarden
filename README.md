@@ -12,3 +12,6 @@ Usage of ./1password-linux-to-bitwarden:
   -bitwarden-export-file-path string
         The absolute path to where you want to export the JSON to import into Bitwarden (defaults to your current working directory)
 ```
+
+Import into Bitwarden as Bitwarden (json)
+
